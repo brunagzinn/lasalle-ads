@@ -4,7 +4,8 @@
 void main()
 {
     printf("Universidade La Salle Academica Bruna Zinn Matrícula: 202213700 Curso: ADS\n\n");
-    // cÓDIGO ADAPTADO DE https://www.youtube.com/watch?v=aISV1NBigW4
+    // git hub: brunagzinn https://github.com/brunagzinn/lasalle-ads/blob/main/Algoritmos/CalculadoraC.c
+    // CÓDIGO ADAPTADO DE https://www.youtube.com/watch?v=aISV1NBigW4
     // declara variaveis
     float Operacao1 = 0, Operacao2 = 0;
     int op;
