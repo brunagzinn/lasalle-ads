@@ -1,3 +1,7 @@
+/*
+ * Autor: Bruna Zinn
+ * GitHub: brunagzinn
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
